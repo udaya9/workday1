@@ -13,7 +13,7 @@
 	</path>
 	
 	<tstamp>
-	    <format property="builddatetime" pattern="yyyyMMddhhmm" locale="en,GB"/>
+	    <format property="builddatetime" pattern="yyyy201701ddhhmm" locale="en,GB"/>
 	  </tstamp>
 	<target name="delete" >
 		<delete dir="${web.dir}/WEB-INF/classes" />		
